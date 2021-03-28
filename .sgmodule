@@ -1,4 +1,4 @@
-"{
+{
     "name": "公众号少年歌行pro全网合一整理",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
@@ -158,12 +158,12 @@
 		"0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/yzkbSign.js, tag= 柚子快报, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/yzkb.png, enabled=true",
 		"0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/zscdbSign.js, tag=追书畅读版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/zscdb.png, enabled=true",
 		"0 10 0 * * * https://raw.githubusercontent.com/DD-D1/2020scripts/master/zymkSign.js, tag= 知音漫客, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/zymk.png, enabled=true",
-		"0 9 * * * https://raw.githubusercontent.com/Brich-01/AutoSyncScript/NobyDa/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/52pj.png, enabled=true",
-		"0 9 * * * https://raw.githubusercontent.com/Brich-01/AutoSyncScript/NobyDa/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enabled=true",
-		"0 9 * * * https://raw.githubusercontent.com/Brich-01/AutoSyncScript/NobyDa/Bilibili-DailyBonus/Manga.js, tag=哔哩哔哩漫画, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/manga.png, enabled=true",
-		"0 9 * * * https://raw.githubusercontent.com/Brich-01/AutoSyncScript/NobyDa/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-		"0 9 * * * https://raw.githubusercontent.com/Brich-01/AutoSyncScript/NobyDa/KuaiKan-DailyBonus/KKMH.js, tag=快看漫画, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/KuaiKan.png, enabled=true",
-		"0 9 * * * https://raw.githubusercontent.com/Brich-01/AutoSyncScript/NobyDa/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/iQIYI.png, enabled=true",
+		"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/52pojie-DailyBonus/52pojie.js, tag=吾爱破解, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/52pj.png, enabled=true",
+		"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/BDTieBa-DailyBonus/TieBa.js, tag=百度贴吧, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/tieba.png, enabled=true",
+		"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/Bilibili-DailyBonus/Manga.js, tag=哔哩哔哩漫画, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/manga.png, enabled=true",
+		"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
+		"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/KuaiKan-DailyBonus/KKMH.js, tag=快看漫画, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/KuaiKan.png, enabled=true",
+		"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/iQIYI.png, enabled=true",
 		"10 8-22/2 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js, tag=彩云天气, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/caiyun.png, enabled=true",
 		"0 9 */7 * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/epic.js, tag=Epic周免, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/epic.png, enabled=true",
 		"0 9 * * * https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/exchange.js, tag=汇率监控, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/exchangerate.png, enabled=true",
