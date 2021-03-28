@@ -2,6 +2,6 @@
     "name": "Brich-01自用库",
     "description": "同步大佬脚本",
     "task": [   
-	        "5 0 * * * https://raw.githubusercontent.com/Brich-01/AutoSyncScript/NobyDa/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true
+	        "5 0 * * * https://raw.githubusercontent.com/Brich-01/AutoSyncScript/NobyDa/JD-DailyBonus/JD_DailyBonus.js, tag=京东多合一签到, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png,enabled=true"
     ]
 }
