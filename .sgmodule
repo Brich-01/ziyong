@@ -1,5 +1,5 @@
 {
-    "name": "公众号少年歌行pro全网合一整理",
+    "name": "Brich-01",
     "description": "请善用搜索功能，如搜索京东可查所有京东脚本",
     "task": [   
 	        "3 10 * * * https://raw.githubusercontent.com/sngxpro2/AutoSyncScript/i-chenzhe/jd_fanslove.js, tag=京东粉丝互动, img-url=https://raw.githubusercontent.com/sngxpro/AutoSyncScript/i-chenzhe/img/icon.png, enabled=true",
