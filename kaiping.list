@@ -1,3 +1,6 @@
 # Advertising
 # > General
-DOMAIN-SUFFIX,ossgw.alicdn.com,REJECT
+DOMAIN-KEYWORD,adservice
+
+# >TXTV
+DOMAIN,ossgw.alicdn.com
