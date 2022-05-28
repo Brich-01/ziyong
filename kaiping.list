@@ -257,6 +257,10 @@ DOMAIN-SUFFIX,union.6.cn
 DOMAIN-SUFFIX,wa.gtimg.com
 DOMAIN-SUFFIX,bfshan.cn
 
+#(Z)
+# > ZSYH
+DOMAIN-SUFFIX,cmbimg.com
+
 # Ads in apps
 
 DOMAIN-KEYWORD,admaster
