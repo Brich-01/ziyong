@@ -3,7 +3,7 @@
 DOMAIN-KEYWORD,adservice
 
 #(T)
-# >TXTV
+# >腾讯TV
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,gtimg.com
 
@@ -52,7 +52,7 @@ IP-CIDR,101.227.200.28/32,no-resolve
 IP-CIDR,124.192.153.42/32,no-resolve
 
 #(Y)
-# > Youku & Tudou
+# > 优酷 & 土豆
 DOMAIN-SUFFIX,actives.youku.com
 DOMAIN-SUFFIX,ad.api.3g.tudou.com
 DOMAIN-SUFFIX,ad.api.3g.youku.com
@@ -108,7 +108,7 @@ DOMAIN-SUFFIX,nichibenren.or.jp
 DOMAIN-SUFFIX,nicorette.co.kr
 
 #(M)
-# > MGTV
+# > 芒果TV
 DOMAIN-SUFFIX,ads-api.videojj.com
 DOMAIN-SUFFIX,cdn.cmop.mgtv.com
 DOMAIN-SUFFIX,click.hunantv.com
@@ -145,7 +145,7 @@ DOMAIN-SUFFIX,y.da.hunantv.com
 DOMAIN-SUFFIX,y.da.mgtv.com
 
 #(L)
-# > Letv
+# > 乐视TV
 DOMAIN-SUFFIX,1.letvlive.com
 DOMAIN-SUFFIX,2.letvlive.com
 DOMAIN-SUFFIX,ads1.lfengmobile.com
@@ -170,7 +170,7 @@ DOMAIN-SUFFIX,webp2p.letv.com
 DOMAIN-SUFFIX,zamplus.com
 
 #(S)
-# > Sohu
+# > 搜狐
 DOMAIN-SUFFIX,adnet.sohu.com
 DOMAIN-SUFFIX,aty.sohu.com
 DOMAIN-SUFFIX,data.vod.itc.cn
@@ -258,7 +258,7 @@ DOMAIN-SUFFIX,wa.gtimg.com
 DOMAIN-SUFFIX,bfshan.cn
 
 #(Z)
-# > ZSYH
+# > 招商银行
 DOMAIN-SUFFIX,cmbimg.com
 
 # Ads in apps
