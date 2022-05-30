@@ -18,7 +18,7 @@ obj ={
         },
         "included": [{
             "attributes": {
-                "full_name": "Lang Khach",
+                "full_name": "Yu yue",
                 "patron_status": "active_patron"
             },
             "id": "90c47077-73d9-40d2-8Dec-9bd600a07ced",
