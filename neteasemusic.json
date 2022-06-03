@@ -1,0 +1,87 @@
+{
+  "DEBUG": false,
+  "Users": [
+    {
+      "Cookies": [MUSIC_U=008DE03909CB3EAA81CC7FC07CF0EF6BBF3F2F32F7D0E4B17E7D6BB1E248250372C0D3440EB44BF998C0D31C3D00C4088C3B28108445ADBF1A1A3CBBD6DAB41EDC275E279E280DABBF068EFEB7CE826B50865E71EE5685D9B68DB7247E6BAF58FEFDEA995AB2A8A8FA89BEFE86D7E14BBBC234B0B61F90EFC05B74ADD09D98DA69E1F309B8EF769882BA09312BFC492C6EB081F5CD1431ED6EA9E69729F5BE4A94A1A0B7D6EB8CBBD81706D06AC670D1EA24A21A29170CCBA1D386F6952563427D1AA82B2EDCB1B73EFA5CB2B9EB8B240A7DB4242913622058243CA10CEF78FF8C6EE8B7A5A1BFCF09C95BB10252A6725595E0526512D1046CFAF43D4132A24213B75D1ACC96B53B941E132A9B983AAC81; MUSIC_A_T=1491028287949; MUSIC_R_T=1491028287951; NMTID=00ONeojfCwN7pPyPU6XiCcrXwM2DecAAAF9uttlpg; buildver=2904; channel=distribution; EVNSM=1.0.0; appver=8.7.65; deviceId=244e33912103ec58445158937e2cb0b2; os=iPhone OS; osver=15.5; machineid=iPhone13.1; NMCID=grdfcp.1639517472000.01.3; appkey=IuRPVVmc3WWul9fT; NMDI=Q1NKTQcBDAAYXHcCZd%2Bup%2FtYSRSWAAAA2jEfTMgcHzhFTWgbDD2e6HptiqHQe5t%2F2csTSfx%2FCkU2HUrrvqnQ%2FP61WdpOHDwg5qffoDUOADS751%2BsgLyuMe4oK72lAXA3ZcINPt%2BcgqVOJUbXHwHxF9vIlQTc2IDsfC9Stc9FG9VqCJafpe8Xumfdzqj7jUKG8ppmGiteD%2BUhb40YTOkN%2BxgGqo0ZTGgWJbwozFN7; URS_APPID=0AA5269BE91C3F42FB9D1FB1D6C94E197428217B6C4D5050BDB96F822CC6F4EDB6293116B121D6872A9FEA6913295501
+        {
+          "Name": "MUSIC_U",
+          "Value": "USER_1_MUSIC_U"
+        }
+      ]
+    },
+    {
+      "Cookies": [
+        {
+          "Name": "MUSIC_U",
+          "Value": "USER_2_MUSIC_U"
+        }
+      ]
+    }
+  ],
+  "EventSendConfig": {
+    "LagConfig": {
+      "RandomLag": true,
+      "LagBetweenSendAndDelete": true,
+      "DefaultLag": 60,
+      "LagMin": 30,
+      "LagMax": 120
+    }
+  },
+  "CommentConfig": {
+    "RepliedComment": [
+      {
+        "MusicID": 123456,
+        "CommentID": 123456
+      },
+      {
+        "MusicID": 123456,
+        "CommentID": 123456
+      }
+    ],
+    "LagConfig": {
+      "RandomLag": true,
+      "LagBetweenSendAndDelete": true,
+      "DefaultLag": 60,
+      "LagMin": 30,
+      "LagMax": 120
+    }
+  },
+  "SendMsgConfig": {
+    "UserID": [
+      [
+        123456
+      ],
+      [
+        123456
+      ]
+    ],
+    "LagConfig": {
+      "RandomLag": true,
+      "DefaultLag": 10,
+      "LagMin": 5,
+      "LagMax": 20
+    }
+  },
+  "SendMlogConfig": {
+    "PicFolder": "./pic",
+    "MusicIDs": [
+      1322404518,
+      1395512014,
+      1295601353
+    ]
+  },
+  "AutoGetVipGrowthpoint": false,
+  "Content": [
+    "YOUR_CUSTOM_TEXT_1",
+    "YOUR_CUSTOM_TEXT_2"
+  ],
+  "Cron": {
+    "Enabled": false,
+    "Expression": "0 0 1,13 * * ?",
+    "EnableLag": false,
+    "LagConfig": {
+      "LagMin": 600,
+      "LagMax": 3600
+    }
+  }
+}
