@@ -1,4 +1,5 @@
-# Advertising
+# 去除开屏广告
+# 如果去除不掉，建议清除app缓存/重新安装app
 # > General
 DOMAIN-KEYWORD,adservice
 
