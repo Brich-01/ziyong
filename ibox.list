@@ -1,5 +1,0 @@
-#!name=Skip Proxy Lists
-#!desc=跳过部分应用的代理检测
-# > [General]
-DOMAIN,baidu.com
-DOMAIN,bdstatic.com
