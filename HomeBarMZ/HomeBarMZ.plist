@@ -1,0 +1,11 @@
+<!-- 限制插件仅在SpringBoard和App中生效 -->
+<dict>
+    <key>Filter</key>
+    <dict>
+        <key>Bundles</key>
+        <array>
+            <string>com.apple.springboard</string>
+            <string>com.apple.UIKit</string>
+        </array>
+    </dict>
+</dict>
