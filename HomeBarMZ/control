@@ -8,4 +8,4 @@ Depends: firmware (>= 5.0), mobilesubstrate
 Priority: optional
 Maintainer: Brich-01
 Author: Brich-01
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64
