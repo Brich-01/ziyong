@@ -1,1 +1,11 @@
-
+Package: com.Brich-01.HomeBarMZ
+Name: HomeBarM
+Version: 0.1
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Homepage: https://github.com/Brich-01/HomeBarMZ
+Section: Tweaks
+Depends: firmware (>= 5.0), mobilesubstrate
+Priority: optional
+Maintainer: Brich-01
+Author: Brich-01
+Architecture: iphoneos-arm64
