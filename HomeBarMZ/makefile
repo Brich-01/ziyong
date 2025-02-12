@@ -1,6 +1,6 @@
-ARCHS = arm64 arm64e
+ARCHS = arm64
 TARGET = iphone:clang:latest:14.0
-INSTALL_TARGET_PROCESSES = SpringBoard MobileSMS MobileMail Safari # 根据需要添加更多应用
+INSTALL_TARGET_PROCESSES = SpringBoard MobileSMS MobileMail Safari# 根据需要添加更多应用
 
 include $(THEOS)/makefiles/common.mk
 
